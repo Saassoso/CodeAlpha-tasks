@@ -72,5 +72,3 @@ These tasks during my internship at CodeAlpha have significantly improved my pra
 
 ---
 
-For further details or questions, feel free to contact me at [Your Contact Information].
-
